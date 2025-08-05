@@ -1,5 +1,6 @@
 # 🎨 Behance Clone
-
+![Dashboard Screenshot](behance.png)
+### About Project
 A visually engaging **Behance-style portfolio web application** built using **React** and **Tailwind CSS**. This project replicates the layout and structure of Behance, ideal for showcasing creative work, portfolios, and design projects.
 
 ---
